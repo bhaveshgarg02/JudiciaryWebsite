@@ -1,0 +1,40 @@
+{
+    "id": 53,
+    "count": 4,
+    "description": "",
+    "link": "https:\/\/testdevjudicialacademy.com\/product-category\/question-paper\/",
+    "name": "Question Paper",
+    "slug": "question-paper",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product_cat\/53"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product_cat"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/taxonomies\/product_cat"
+            }
+        ],
+        "wp:post_type": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product?product_cat=53"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

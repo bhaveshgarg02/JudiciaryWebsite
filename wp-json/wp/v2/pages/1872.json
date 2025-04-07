@@ -1,0 +1,95 @@
+{
+    "id": 1872,
+    "date": "2024-10-11T06:01:03",
+    "date_gmt": "2024-10-11T06:01:03",
+    "guid": {
+        "rendered": "https:\/\/testdevjudicialacademy.com\/?page_id=1872"
+    },
+    "modified": "2024-10-15T10:38:00",
+    "modified_gmt": "2024-10-15T05:08:00",
+    "slug": "video-gallery",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/testdevjudicialacademy.com\/video-gallery\/",
+    "title": {
+        "rendered": "Video Gallery"
+    },
+    "content": {
+        "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"1872\" class=\"elementor elementor-1872\" data-elementor-post-type=\"page\">\n\t\t\t\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-545640c elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle row-top\" data-id=\"545640c\" data-element_type=\"section\" data-settings=\"{&quot;_ha_eqh_enable&quot;:false}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-extended\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2459a96 column-style-top\" data-id=\"2459a96\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-0c6ec92 elementor-widget elementor-widget-gva-video-carousel\" data-id=\"0c6ec92\" data-element_type=\"widget\" data-widget_type=\"gva-video-carousel.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<div class=\"gva-element-gva-video-carousel gva-element\">   \r\n\r\n<div class=\"gva-video-carousel\">\r\n   <div class=\"init-carousel-owl owl-carousel\" data-items=\"3\" data-items_lg=\"3\" data-items_md=\"3\" data-items_sm=\"2\" data-items_xs=\"1\" data-items_xx=\"1\" data-loop=\"1\" data-speed=\"800\" data-auto_play=\"1\" data-auto_play_speed=\"800\" data-auto_play_timeout=\"6000\" data-auto_play_hover=\"1\" data-navigation=\"1\" data-pagination=\"1\" data-mouse_drag=\"1\" data-touch_drag=\"1\" >\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/bgFDzbhZW7o-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=bgFDzbhZW7o\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/maxresdefault.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=GrNovkir8Es\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Pw4H2gW9AWg-MQ.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=Pw4H2gW9AWg\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/L9eXjq5DAso-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=L9eXjq5DAso\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/9Oawn_Opctc-MQ.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=9Oawn_Opctc\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/anr0RA9AOyY-MQ.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=anr0RA9AOyY\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/cY8VcbLvqqg-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=cY8VcbLvqqg\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/n7XOx834r70-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=n7XOx834r7\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/wVGoUP-lvo-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=wVGoUP--lvo\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/ieVjjdQIY4o-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=ieVjjdQIY4o\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/gUmw6PWV-ko-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=gUmw6PWV-ko\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/tWhpykUJexs-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=tWhpykUJexs\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n                        <div class=\"item video-item\">\r\n            <div class=\"video-item-inner\">\r\n               <div class=\"video-image\">\r\n                  <img decoding=\"async\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Oql9lAFeWVI-HD.jpg\" alt=\"\" \/>\r\n               <\/div>\r\n               <a class=\"video-link popup-video\" href=\"https:\/\/www.youtube.com\/watch?v=Oql9lAFeWVI\"><i class=\"fa fa-play\"><\/i><\/a>\r\n                  \r\n            <\/div>   \r\n         <\/div>\r\n         <\/div>\r\n<\/div>\r\n<\/div>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "footnotes": ""
+    },
+    "class_list": [
+        "post-1872",
+        "page",
+        "type-page",
+        "status-publish",
+        "hentry"
+    ],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages\/1872"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/comments?post=1872"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 82,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages\/1872\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2224,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages\/1872\/revisions\/2224"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/media?parent=1872"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

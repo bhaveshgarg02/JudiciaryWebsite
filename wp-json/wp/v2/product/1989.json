@@ -1,0 +1,115 @@
+{
+    "id": 1989,
+    "date": "2024-10-11T08:50:33",
+    "date_gmt": "2024-10-11T08:50:33",
+    "guid": {
+        "rendered": "https:\/\/testdevjudicialacademy.com\/?post_type=product&#038;p=1989"
+    },
+    "modified": "2024-10-11T17:29:21",
+    "modified_gmt": "2024-10-11T17:29:21",
+    "slug": "question-paper",
+    "status": "publish",
+    "type": "product",
+    "link": "https:\/\/testdevjudicialacademy.com\/product\/question-paper\/",
+    "title": {
+        "rendered": "INDIAN CONTRACT ACT WITH ANSWERKEY"
+    },
+    "content": {
+        "rendered": "",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Excellent Coaching for the posts of Civil Judges -cum- Judicial Magistrates {PCS (Judicial)} and for Additional District and Sessions Judges, and all law subjects<\/p>\n",
+        "protected": false
+    },
+    "featured_media": 1991,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "product_brand": [],
+    "product_cat": [
+        53
+    ],
+    "product_tag": [
+        56,
+        55,
+        54
+    ],
+    "class_list": {
+        "0": "post-1989",
+        "1": "product",
+        "2": "type-product",
+        "3": "status-publish",
+        "4": "has-post-thumbnail",
+        "6": "product_cat-question-paper",
+        "7": "product_tag-dcs",
+        "8": "product_tag-hcs",
+        "9": "product_tag-pcs",
+        "11": "first",
+        "12": "instock",
+        "13": "downloadable",
+        "14": "sold-individually",
+        "15": "shipping-taxable",
+        "16": "purchasable",
+        "17": "product-type-simple"
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product\/1989"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/types\/product"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/comments?post=1989"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/media\/1991"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/media?parent=1989"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "product_brand",
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product_brand?post=1989"
+            },
+            {
+                "taxonomy": "product_cat",
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product_cat?post=1989"
+            },
+            {
+                "taxonomy": "product_tag",
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/product_tag?post=1989"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

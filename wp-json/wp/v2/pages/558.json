@@ -1,0 +1,89 @@
+{
+    "id": 558,
+    "date": "2021-03-24T03:10:10",
+    "date_gmt": "2021-03-24T03:10:10",
+    "guid": {
+        "rendered": "https:\/\/gaviaspreview.com\/wp\/zilom\/donor-dashboard\/"
+    },
+    "modified": "2021-03-24T03:10:10",
+    "modified_gmt": "2021-03-24T03:10:10",
+    "slug": "terms-and-conditions",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/testdevjudicialacademy.com\/terms-and-conditions\/",
+    "title": {
+        "rendered": "Terms and Conditions"
+    },
+    "content": {
+        "rendered": "<div class=\"margin-top-80 margin-bottom-50\">\n<h4>1. Terms<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>\n<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>\n<p>&nbsp;<\/p>\n<h4>2. Limitations<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>\n<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>\n<p>&nbsp;<\/p>\n<h4>3. Revisions and Errata<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>\n<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>\n<p>&nbsp;<\/p>\n<h4>4. Site Terms of Use Modifications<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>\n<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>\n<\/div>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>1. Terms Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco [&hellip;]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "footnotes": ""
+    },
+    "class_list": [
+        "post-558",
+        "page",
+        "type-page",
+        "status-publish",
+        "hentry"
+    ],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages\/558"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/comments?post=558"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages\/558\/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/media?parent=558"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

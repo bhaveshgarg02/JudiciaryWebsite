@@ -1,0 +1,89 @@
+{
+    "id": 16,
+    "date": "2024-09-11T11:23:29",
+    "date_gmt": "2024-09-11T11:23:29",
+    "guid": {
+        "rendered": "https:\/\/testdevjudicialacademy.com\/cart\/"
+    },
+    "modified": "2024-09-11T11:23:29",
+    "modified_gmt": "2024-09-11T11:23:29",
+    "slug": "cart",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/testdevjudicialacademy.com\/cart\/",
+    "title": {
+        "rendered": "Cart"
+    },
+    "content": {
+        "rendered": "<div data-block-name=\"woocommerce\/cart\" class=\"wp-block-woocommerce-cart alignwide is-loading\"><div data-block-name=\"woocommerce\/filled-cart-block\" class=\"wp-block-woocommerce-filled-cart-block\"><div data-block-name=\"woocommerce\/cart-items-block\" class=\"wp-block-woocommerce-cart-items-block\"><div data-block-name=\"woocommerce\/cart-line-items-block\" class=\"wp-block-woocommerce-cart-line-items-block\"><\/div>\n\n<div data-block-name=\"woocommerce\/cart-cross-sells-block\" class=\"wp-block-woocommerce-cart-cross-sells-block\"><h2 class=\"wp-block-heading has-large-font-size\">You may be interested in\u2026<\/h2>\n\n<div data-block-name=\"woocommerce\/cart-cross-sells-products-block\" class=\"wp-block-woocommerce-cart-cross-sells-products-block\"><\/div><\/div><\/div>\n\n<div data-block-name=\"woocommerce\/cart-totals-block\" class=\"wp-block-woocommerce-cart-totals-block\"><div data-block-name=\"woocommerce\/cart-order-summary-block\" class=\"wp-block-woocommerce-cart-order-summary-block\"><div data-block-name=\"woocommerce\/cart-order-summary-heading-block\" class=\"wp-block-woocommerce-cart-order-summary-heading-block\"><\/div><div data-block-name=\"woocommerce\/cart-order-summary-coupon-form-block\" class=\"wp-block-woocommerce-cart-order-summary-coupon-form-block\"><\/div><div data-block-name=\"woocommerce\/cart-order-summary-totals-block\" class=\"wp-block-woocommerce-cart-order-summary-totals-block\">\n<div data-block-name=\"woocommerce\/cart-order-summary-subtotal-block\" class=\"wp-block-woocommerce-cart-order-summary-subtotal-block\"><\/div>\n<div data-block-name=\"woocommerce\/cart-order-summary-discount-block\" class=\"wp-block-woocommerce-cart-order-summary-discount-block\"><\/div>\n<div data-block-name=\"woocommerce\/cart-order-summary-fee-block\" class=\"wp-block-woocommerce-cart-order-summary-fee-block\"><\/div>\n<div data-block-name=\"woocommerce\/cart-order-summary-shipping-block\" class=\"wp-block-woocommerce-cart-order-summary-shipping-block\"><\/div>\n<div data-block-name=\"woocommerce\/cart-order-summary-taxes-block\" class=\"wp-block-woocommerce-cart-order-summary-taxes-block\"><\/div><\/div><\/div>\n\n<div data-block-name=\"woocommerce\/cart-express-payment-block\" class=\"wp-block-woocommerce-cart-express-payment-block\"><\/div>\n\n<div data-block-name=\"woocommerce\/proceed-to-checkout-block\" class=\"wp-block-woocommerce-proceed-to-checkout-block\"><\/div>\n\n<div data-block-name=\"woocommerce\/cart-accepted-payment-methods-block\" class=\"wp-block-woocommerce-cart-accepted-payment-methods-block\"><\/div><\/div><\/div>\n\n<div data-block-name=\"woocommerce\/empty-cart-block\" class=\"wp-block-woocommerce-empty-cart-block\"><h2 class=\"wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title\">Your cart is currently empty!<\/h2>\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity is-style-dots\"\/>\n\n<h2 class=\"wp-block-heading has-text-align-center\">New in store<\/h2>\n\n<div data-block-name=\"woocommerce\/product-new\" data-columns=\"4\" data-rows=\"1\" class=\"wc-block-grid wp-block-product-new wp-block-woocommerce-product-new wc-block-product-new has-4-columns\"><ul class=\"wc-block-grid__products\"><li class=\"wc-block-grid__product\">\n\t\t\t\t<a href=\"https:\/\/testdevjudicialacademy.com\/product\/transfer-of-property-act-with-answerkey\/\" class=\"wc-block-grid__product-link\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wc-block-grid__product-image\"><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"TRANSFER OF PROPERTY ACT WITH ANSWERKEY\" srcsets=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png 300w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--600x600.png 600w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--180x180.png 180w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><\/div>\n\t\t\t\t\t<div class=\"wc-block-grid__product-title\">TRANSFER OF PROPERTY ACT WITH ANSWERKEY<\/div>\n\t\t\t\t<\/a>\n\t\t\t\t<div class=\"wc-block-grid__product-price price\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#8377;<\/span>0.00<\/span><\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"wp-block-button wc-block-grid__product-add-to-cart\"><a href=\"?add-to-cart=2111\" aria-label=\"Add to cart: &ldquo;TRANSFER OF PROPERTY ACT WITH ANSWERKEY&rdquo;\" data-quantity=\"1\" data-product_id=\"2111\" data-product_sku=\"RlC004\" data-price=\"0\" rel=\"nofollow\" class=\"wp-block-button__link  add_to_cart_button ajax_add_to_cart\">Add to cart<\/a><\/div>\n\t\t\t<\/li><li class=\"wc-block-grid__product\">\n\t\t\t\t<a href=\"https:\/\/testdevjudicialacademy.com\/product\/civil-procedure-code-with-answerkey\/\" class=\"wc-block-grid__product-link\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wc-block-grid__product-image\"><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"CIVIL PROCEDURE CODE WITH ANSWERKEY\" srcsets=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png 300w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--600x600.png 600w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--180x180.png 180w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><\/div>\n\t\t\t\t\t<div class=\"wc-block-grid__product-title\">CIVIL PROCEDURE CODE WITH ANSWERKEY<\/div>\n\t\t\t\t<\/a>\n\t\t\t\t<div class=\"wc-block-grid__product-price price\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#8377;<\/span>0.00<\/span><\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"wp-block-button wc-block-grid__product-add-to-cart\"><a href=\"?add-to-cart=2110\" aria-label=\"Add to cart: &ldquo;CIVIL PROCEDURE CODE WITH ANSWERKEY&rdquo;\" data-quantity=\"1\" data-product_id=\"2110\" data-product_sku=\"RlC003\" data-price=\"0\" rel=\"nofollow\" class=\"wp-block-button__link  add_to_cart_button ajax_add_to_cart\">Add to cart<\/a><\/div>\n\t\t\t<\/li><li class=\"wc-block-grid__product\">\n\t\t\t\t<a href=\"https:\/\/testdevjudicialacademy.com\/product\/indian-constitution-with-answerkey\/\" class=\"wc-block-grid__product-link\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wc-block-grid__product-image\"><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"INDIAN CONSTITUTION WITH ANSWERKEY\" srcsets=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png 300w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--600x600.png 600w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--180x180.png 180w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><\/div>\n\t\t\t\t\t<div class=\"wc-block-grid__product-title\">INDIAN CONSTITUTION WITH ANSWERKEY<\/div>\n\t\t\t\t<\/a>\n\t\t\t\t<div class=\"wc-block-grid__product-price price\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#8377;<\/span>0.00<\/span><\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"wp-block-button wc-block-grid__product-add-to-cart\"><a href=\"?add-to-cart=2109\" aria-label=\"Add to cart: &ldquo;INDIAN CONSTITUTION WITH ANSWERKEY&rdquo;\" data-quantity=\"1\" data-product_id=\"2109\" data-product_sku=\"RlC002\" data-price=\"0\" rel=\"nofollow\" class=\"wp-block-button__link  add_to_cart_button ajax_add_to_cart\">Add to cart<\/a><\/div>\n\t\t\t<\/li><li class=\"wc-block-grid__product\">\n\t\t\t\t<a href=\"https:\/\/testdevjudicialacademy.com\/product\/question-paper\/\" class=\"wc-block-grid__product-link\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wc-block-grid__product-image\"><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"INDIAN CONTRACT ACT WITH ANSWERKEY\" srcsets=\"https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--300x300.png 300w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--600x600.png 600w, https:\/\/testdevjudicialacademy.com\/wp-content\/uploads\/2024\/10\/Questions-Papers--180x180.png 180w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><\/div>\n\t\t\t\t\t<div class=\"wc-block-grid__product-title\">INDIAN CONTRACT ACT WITH ANSWERKEY<\/div>\n\t\t\t\t<\/a>\n\t\t\t\t<div class=\"wc-block-grid__product-price price\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#8377;<\/span>0.00<\/span><\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"wp-block-button wc-block-grid__product-add-to-cart\"><a href=\"?add-to-cart=1989\" aria-label=\"Add to cart: &ldquo;INDIAN CONTRACT ACT WITH ANSWERKEY&rdquo;\" data-quantity=\"1\" data-product_id=\"1989\" data-product_sku=\"RlC001\" data-price=\"0\" rel=\"nofollow\" class=\"wp-block-button__link  add_to_cart_button ajax_add_to_cart\">Add to cart<\/a><\/div>\n\t\t\t<\/li><\/ul><\/div><\/div><\/div>",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "footnotes": ""
+    },
+    "class_list": [
+        "post-16",
+        "page",
+        "type-page",
+        "status-publish",
+        "hentry"
+    ],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages\/16"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/comments?post=16"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/pages\/16\/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/media?parent=16"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

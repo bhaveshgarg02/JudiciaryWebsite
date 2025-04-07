@@ -1,0 +1,120 @@
+{
+    "id": 1617,
+    "date": "2024-10-15T09:30:21",
+    "date_gmt": "2024-10-15T04:00:21",
+    "guid": {
+        "rendered": "https:\/\/testdevjudicialacademy.com\/?p=1617"
+    },
+    "modified": "2024-10-15T09:52:54",
+    "modified_gmt": "2024-10-15T04:22:54",
+    "slug": "9-clear-pcsjudicial-exam-in-city",
+    "status": "publish",
+    "type": "post",
+    "link": "https:\/\/testdevjudicialacademy.com\/9-clear-pcsjudicial-exam-in-city\/",
+    "title": {
+        "rendered": "9 clear PCS(Judicial) exam in city"
+    },
+    "content": {
+        "rendered": "<p>For Mandeep Singh, a lawyer at the district courts, the news of his selection in the Punjab Civil Services (PCS) Judicial exam was truly a reason for celebration as this brought an end to his family\u2019s days of struggle. The PCS (Judicial) exams results were declared late last night.<\/p>\n<p>The son of labourers, Mandeep bagged the ninth rank in the Scheduled Castes (SC) category and cleared the exam in the second attempt. A former student of BA LLB at Guru Nanak Dev University Regional Centre, Ladhewali, he is one among nine others from the city-based Harman Study Hub &#8211; an institute for competitive exams in the city &#8211; who cleared the PCS (Judicial) exam.<\/p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>For Mandeep Singh, a lawyer at the district courts, the news of his selection in the Punjab Civil Services (PCS) Judicial exam was truly a reason for celebration as this [&hellip;]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1598,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "footnotes": ""
+    },
+    "categories": [
+        50
+    ],
+    "tags": [],
+    "class_list": [
+        "post-1617",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-news"
+    ],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/posts\/1617"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/types\/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/comments?post=1617"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/posts\/1617\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1618,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/posts\/1617\/revisions\/1618"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/media\/1598"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/media?parent=1617"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/categories?post=1617"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https:\/\/testdevjudicialacademy.com\/wp-json\/wp\/v2\/tags?post=1617"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
